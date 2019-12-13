@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+ion-icon,
+ion-tab-button {
+    font-size: 40px;
+}
+
+ion-tab-bar {
+    --background: #545454;
+    --color: white;
+    height: 100px;
+}
+
+ion-label {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+    margin: 0px 0px 0px;
+}
